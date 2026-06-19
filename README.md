@@ -5,6 +5,9 @@
 This project demonstrates an end-to-end Data Analytics workflow using Python and MySQL. The objective was to extract Walmart sales data from Kaggle, clean and transform the data using Pandas, load it into MySQL using SQLAlchemy, and generate business insights through SQL queries
 ## 📊 Project Workflow
 
+## 📊 Project Workflow
+
+![Walmart Sales Analysis Workflow](https://raw.githubusercontent.com/awsdevopsrony1/Walmart_SQL_Python/main/workflow.png)
 
 
 
