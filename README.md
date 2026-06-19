@@ -2,7 +2,7 @@
 - How can Walmart leverage its sales data to boost revenue and profit? This project seeks to answer that question by performing an exploratory data analysis (EDA) on historical transaction data.
 ## 📌 Project Overview
 
-This project demonstrates an end-to-end Data Analytics workflow using Python and MySQL. The objective was to extract Walmart sales data from Kaggle, clean and transform the data using Pandas, load it into MySQL using SQLAlchemy, and generate business insights through SQL queries
+This project demonstrates an end-to-end Data Analytics workflow using Python and MySQLServer. The objective was to extract Walmart sales data from Kaggle, clean and transform the data using Pandas, load it into MySQLServer using SQLAlchemy, and generate business insights through SQL queries
 
 ## 📊 Project Workflow
 
@@ -14,7 +14,7 @@ This project demonstrates an end-to-end Data Analytics workflow using Python and
 
 - Python
 - Pandas
-- MySQL
+- MySQL Server
 - SQLAlchemy
 - Kaggle API
 - Jupyter Notebook
